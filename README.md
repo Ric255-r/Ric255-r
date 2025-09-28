@@ -26,9 +26,10 @@ Web developer yang nyaman di **backend** (Laravel, Express.js, FastAPI), **front
 
 ## 💼 Pengalaman Singkat
 
-* **Freelance Software Developer** (Mei 2022 – Sekarang) — Project Android & Web: Flutter, React, Laravel/PHP, FastAPI, Node/Express
+* **Intern Software Developer - PT. Turbin** (Sep 2025 – Sekarang) — Project berbasis Web menggunakan Laravel dan NextJs 
 * **IT Support — E-Shia Digital Solution** (Sep 2023 – Feb 2024) — Support jaringan, web issues, OS; perbaikan hardware; bantuan troubleshooting software & konektivitas
 * **IT Support — CV Bengkel Teknologi Indonesia** (Feb 2024 – Jul 2024) — Diagnosa & perbaikan hardware/software/jaringan
+* **Freelance Software Developer** (Mei 2022 – Sekarang) — Project Android & Web: Flutter, React, Laravel/PHP, FastAPI, Node/Express
 
 ## 🎓 Pendidikan
 
