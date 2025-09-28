@@ -12,11 +12,11 @@ Web developer yang nyaman di **backend** (Laravel, Express.js, FastAPI), **front
 
 ## 🧰 Tech Stack
 
-**Frontend:** React, Vue, Flutter.
-**Backend:** Laravel (PHP), FastAPI (Python), Express.js (Node.js).
-**Database:** PostgreSQL, MySQL, MongoDB.
-**Dev Tools:** Git, Postman, VS Code.
-**Ops/Support:** Troubleshooting OS/Network, PC hardware & software.
+* **Frontend:** React, Vue, Flutter.
+* **Backend:** Laravel (PHP), FastAPI (Python), Express.js (Node.js).
+* **Database:** PostgreSQL, MySQL, MongoDB.
+* **Dev Tools:** Git, Postman, VS Code.
+* **Ops/Support:** Troubleshooting OS/Network, PC hardware & software.
 
 ## 🏅 Sertifikasi & Penghargaan
 
