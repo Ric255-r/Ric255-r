@@ -8,15 +8,15 @@ Web developer yang nyaman di **backend** (Laravel, Express.js, FastAPI), **front
 * Membangun aplikasi web full-stack dengan **Laravel** / **FastAPI** + **React/Vue**
 * Menulis API yang bersih dan terukur, plus integrasi seperti **JWT**
 * Optimasi query di **PostgreSQL**/**MySQL** dan desain skema data yang rapi
-* Flutter untuk kebutuhan **mobile** sederhana/line-of-business
+* Flutter untuk kebutuhan bisnis berbasis **mobile** 
 
 ## 🧰 Tech Stack
 
-**Frontend:** React, Vue, Flutter
-**Backend:** Laravel (PHP), FastAPI (Python), Express.js (Node.js)
-**Database:** PostgreSQL, MySQL, MongoDB
-**Dev Tools:** Git, Postman, VS Code
-**Ops/Support:** Troubleshooting OS/Network, PC hardware & software
+**Frontend:** React, Vue, Flutter.
+**Backend:** Laravel (PHP), FastAPI (Python), Express.js (Node.js).
+**Database:** PostgreSQL, MySQL, MongoDB.
+**Dev Tools:** Git, Postman, VS Code.
+**Ops/Support:** Troubleshooting OS/Network, PC hardware & software.
 
 ## 🏅 Sertifikasi & Penghargaan
 
