@@ -38,8 +38,7 @@ Web developer yang nyaman di **backend** (Laravel, Express.js, FastAPI), **front
 
 ## 📌 Nilai Tambah
 
-* Terbiasa kolaborasi tim & komunikasi yang jelas
-* Problem-solving minded, cepat belajar, dan suka eksplor teknologi baru
+* Terbiasa kolaborasi tim dan suka eksplor teknologi baru
 
 ## 📫 Kontak
 
